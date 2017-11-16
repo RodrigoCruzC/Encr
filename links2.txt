@@ -1,0 +1,3 @@
+https://nachxs.wordpress.com/2010/02/11/tripledes-con-java-ii-bouncycastle/
+
+https://es.scribd.com/document/108764746/Creacion-de-Encriptado-en-Coneccion-de-Base-de-Datos-Mysql
